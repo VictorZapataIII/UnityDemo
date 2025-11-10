@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask ground;
 
 
-    //HEY I CHANGE THIS
+    //I CHANGE THIS PART OF THE CODE
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
